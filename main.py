@@ -1,1 +1,1 @@
-bsnsb
+print("hello word")
